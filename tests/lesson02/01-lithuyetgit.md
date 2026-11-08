@@ -9,3 +9,9 @@
 - git add .: add tất cả các file trong thư mục hiện tại
 ### 3. Git commit -m"message"
  - Lưu chính thức các file đang nằm trong Staging Area thành bản ghi vĩnh viễn trên kho lưu trữ Git ở máy local.
+ ### 4. Git remote add origin <'url'>
+- Kết nối Git Repository ở máy local với Github của mình
+- Thực hiện duy nhất một lần khi bắt đầu một dự án mới hoàn toàn trên máy tính
+
+### 5. Git push -u origin main
+- Đẩy toàn bộ các bản commit từ máy tính local lên GitHub.
