@@ -25,6 +25,6 @@ for (let i = 1; i < 101; i+= 4) {
 
 
 // Bài 5.5
-for (let i = 25; i < 25; i++) {
+for (let i = 25; i > 11; i--) {
 console.log(i);
 }
